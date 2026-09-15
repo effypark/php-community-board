@@ -1,0 +1,5 @@
+.env
+.env.*
+/config/database.php
+!/config/database.example.php
+/vendor/
