@@ -3,3 +3,5 @@
 /config/database.php
 !/config/database.example.php
 /vendor/
+/public/uploads
+/storage/
