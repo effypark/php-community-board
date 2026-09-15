@@ -3,5 +3,7 @@
 /config/database.php
 !/config/database.example.php
 /vendor/
-/public/uploads
-/storage/
+/public/uploads/*
+!/public/uploads/uploads.gitkeep
+/storage/*
+!/storage/storage.gitkeep
